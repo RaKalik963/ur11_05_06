@@ -6,7 +6,7 @@ void factorial(int num) {
     for (int i = 1; i <= num; ++i) {
         result *= i;
     }
-    std::cout << result << std::endl;
+    cout << result << endl;
 }
 
 int main() {
