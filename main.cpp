@@ -15,7 +15,7 @@ int main() {
     cin >> num1;
     cout << "enter secoun num ";
     cin >> num2;
-    sumInRange(num1, num2);
+    sum_in_range(num1, num2);
     system("pause");
     return 0;
 }
