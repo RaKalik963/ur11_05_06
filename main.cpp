@@ -17,10 +17,10 @@ void check_number(int num) {
     }
 
     if (is_prime) {
-        cout << number << " is prime numbeê" << endl;
+        cout << num << " is prime numbeê" << endl;
     }
     else {
-        cout << number << " is not prime number" << endl;
+        cout << num << " is not prime number" << endl;
     }
 }
 
